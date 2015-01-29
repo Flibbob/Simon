@@ -1,0 +1,2 @@
+# Simon
+simple memory game
